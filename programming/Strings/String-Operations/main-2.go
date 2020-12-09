@@ -42,7 +42,7 @@ func main() {
 	ss1 := strings.TrimSpace("\t	Naveen		Nimmala			Kumar  !")
 	pf("%q\n", ss1)
 
-	ss2 := strings.Trim("...Naveen Nimmala Kumar!!!", ".!")
+	ss2 := strings.Trim("...Naveen Nimmala Kumar!!!", ".!") // triming only
 	pf("%q\n", ss2)
 
 }
