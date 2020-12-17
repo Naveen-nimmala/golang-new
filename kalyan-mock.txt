@@ -1,0 +1,109 @@
+
+git:
+
+merge and rebase
+git stash
+git fetch
+
+
+Maven/Jenkins:
+
+	what is maven , 
+	alertnative tools
+	life cycle --> 7 life cycle
+	install and deploye 
+
+Jenkins:
+
+	about jenkins
+	pipleline 
+	plugins
+	jenkinsfile
+	master slave differnece
+	jenkins home directory
+	users 
+	role based access
+	strifactory server
+	deploye plugins
+
+
+Ansible:
+
+	gather_facts
+	debug
+	why ansible, diff ansible, pupper, chef
+	loops, with_items
+	handlers
+	tags
+	ignore_errors
+	roles and playbooks
+	run playbooks
+	varibale
+	inverntroy file, option to pass own invetnry file
+	ansible valuts 
+
+Docker:
+	
+	Docker vs VM
+	Advantages Docker
+	Kernal 
+	images and container
+	docker securiy, namespace, Cgroup 
+	networking
+	copy to host to docker container
+	login to docker container 
+	login as a user
+	existed code
+	logs
+	describe
+	volumes
+	Dockerfile
+	Docker-Compose
+	docker commit
+	public
+	docker layers
+	docker create, docker run 
+	docker container stop
+K8s:
+
+AWS:
+	regions
+	servers
+	public subnet(IGW) or private subnet (NAT)
+	iprange
+	Security groups
+	security --> AWS shield, Cloud front
+	Cloud trail, Cloud watch
+	Server Capacity types
+	types of EBS
+	s3
+	AutoSclaing, LoadBalancer
+	web hosting
+	Route53
+	IAM , cetrian access
+	LB --> TargetGroups
+
+Terraform:
+	fail script
+	tfstate file
+	teraform import
+	teraform refresh
+	modules
+	dynacmic 
+	workspcae
+	terraform fail
+	proviserners remote and local exec
+
+Linux:
+	passwd
+	lvm
+	useradd 100 users
+	Yum and rpm
+
+
+
+
+
+
+
+
